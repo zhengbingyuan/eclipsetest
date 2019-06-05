@@ -8,3 +8,12 @@
 out
 gen
 
+#eclipse files
+.classpath
+.project
+.settings
+.metadata
+
+#maven folder
+target/
+
